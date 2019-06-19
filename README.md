@@ -3,7 +3,7 @@
 This is a script that plays the Getting To Philosophy
 It tries to reach: https://en.wikipedia.org/wiki/Philosophy
 It starts with a random wiki page using: https://en.wikipedia.org/wiki/Special:Random
-<pre>
+
 You need to install some libraries, use these commands: 
 pip3 install beautifulsoup4
 pip3 install requests
@@ -15,4 +15,3 @@ find_first()
 
 continue_crawling()
   checks if we're stuck in a loop or reached our destination
-  </pre>
