@@ -1,4 +1,5 @@
 # Getting-To-Philosophy
+<pre>
 This is a script that plays the Getting To Philosophy
 It tries to reach: https://en.wikipedia.org/wiki/Philosophy
 It starts with a random wiki page using: https://en.wikipedia.org/wiki/Special:Random
@@ -11,3 +12,4 @@ find_first()
 
 continue_crawling()
   checks if we're stuck in a loop or reached our destination
+  </pre>
