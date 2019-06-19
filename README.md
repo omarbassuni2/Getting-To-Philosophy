@@ -5,7 +5,11 @@ It tries to reach: https://en.wikipedia.org/wiki/Philosophy
 It starts with a random wiki page using: https://en.wikipedia.org/wiki/Special:Random
 
 You need to install some libraries, use these commands: 
-pip3 install beautifulsoup4              pip3 install requests
+pip3 install beautifulsoup4              
+
+pip3 install requests
+
+
 The script has the two following functions:
 
 find_first()
